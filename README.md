@@ -4,7 +4,7 @@
 
 Welcome stranger! 
 
-I'm Ruy Araujo a student from Brazil. I'm learning how to code. I like to write in Python Code. I have a degree in electronics and in my spare time I love to create projects.
+I'm Ruy Araujo a student from Brazil. i'm learning how to code and i like to write in Python Code. I have a degree in electronics and in my spare time I love to create projects.
 
 For my programming projects, I usually only upload to Github once I make significant progress. Feel free to create a pull request to contribute to any of my repositories.
 
