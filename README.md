@@ -4,14 +4,14 @@
 
 Welcome stranger! 
 
-I'm Ruy Araujo a student from Brazil. i'm learning how to code and i like to write in Python Code. I have a degree in electronics and in my spare time I love to create projects.
+I'm Ruy Araujo a student from Brazil. i'm learning how to code and i like to write in Python/Javascrip Code. I have a degree in electronics and in my spare time I love to create projects.
 
 For my programming projects, I usually only upload to Github once I make significant progress. Feel free to create a pull request to contribute to any of my repositories.
 
 ## About me
 
 - 🔭 I’m currently working on My studies
-- 🌱 I’m currently learning SCRUM
+- 🌱 I’m currently learning React
 - 💬 Ask me about animes,games and technology
 - 😄 Pronouns: He/ -San
 
